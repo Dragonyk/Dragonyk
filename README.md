@@ -1,5 +1,6 @@
 # Hi, I'm Carlos Machado! :D
 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:carlos.machado.pro@gmail.com)](mailto:carlos.machado.pro@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Dragonyk/)](https://github.com/Dragonyk)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carloslsmachado/)](https://www.linkedin.com/in/carloslsmachado/)
 
